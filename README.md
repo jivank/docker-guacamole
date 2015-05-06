@@ -2,7 +2,7 @@
 Run guacamole easily:
 
 ```
-docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d jivank/guacdb
+docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d jivank/guacamoledb
 ```
 
 ```
